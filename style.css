@@ -1,0 +1,95 @@
+body {
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    flex-wrap: wrap;
+
+   
+}
+.parent{
+ width: 45%;
+ height: 400px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-wrap: wrap;
+background:blue;
+box-shadow: 0px 12px 20px 0px black;
+border-radius: 10px;
+ flex-direction: column;
+ gap: 20px;
+   
+}
+.screen{
+   background-color: white; 
+   border-radius: 10px;
+   box-shadow: 0px 10px 15px 0px black;
+   
+   
+}
+.size1{
+    height: 40px;
+    width: 70px;
+    border-radius: 16px;
+    background-color: orangered;
+    box-shadow: 0px 10px 15px 0px black;
+}
+.tg{
+    width: 80%;
+    height: 02px;
+}
+
+
+
+
+
+
+.size{
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 15px 0px black;
+}
+.num{
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 15px 0px black;
+  
+}
+.ti{
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 15px 0px black;
+}
+.the{
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 15px 0px black;
+}
+
+.you{
+    height: 40px;
+    width: 70px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 15px 0px black;
+}
+
+
+
+
+
+@mediascreen (min-width:1441px) {
+    
+    
+}
